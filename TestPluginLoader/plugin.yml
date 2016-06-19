@@ -1,0 +1,4 @@
+name: TestPlugin
+main: net.gkovalechyn.testpluginloader.TestPluginLoader
+version: 1.0
+author: gkovalechyn
